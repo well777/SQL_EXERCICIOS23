@@ -1,0 +1,9 @@
+CREATE TABLE pessoas (
+
+ Nome varchar(20),
+ Cpf  varchar(15),
+ Ano  varchar(6),
+ Mes  varchar(6)
+);
+
+SELECT * FROM pessoas 
