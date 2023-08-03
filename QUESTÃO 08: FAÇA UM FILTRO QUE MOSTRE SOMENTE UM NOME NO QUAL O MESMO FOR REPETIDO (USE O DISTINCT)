@@ -1,0 +1,4 @@
+SELECT * FROM pessoas 
+
+SELECT DISTINCT nome
+FROM pessoas 
