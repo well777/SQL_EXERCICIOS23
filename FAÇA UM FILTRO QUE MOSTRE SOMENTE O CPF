@@ -1,0 +1,2 @@
+SELECT Cpf
+FROM pessoas 
