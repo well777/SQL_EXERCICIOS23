@@ -1,0 +1,4 @@
+SELECT * FROM pessoas 
+
+SELECT nome AS Pessoas, Cpf, Ano, Mes
+FROM pessoas 
